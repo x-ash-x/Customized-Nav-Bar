@@ -42,12 +42,12 @@ ul{
       font-size: 2.2rem;
       display: block;
       position: relative;
-      padding: 0 50px;
+      padding: 0 10px;
   }
   .btn{
       display: inline-block;
       position: absolute;
-      right: 50px;
+      right: 10px;
       top: 50%;
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
@@ -56,7 +56,7 @@ ul{
   .btn:hover{
       display: inline-block;
       position: absolute;
-      right: 50px;
+      right: 10px;
       top: 50%;
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
